@@ -1,0 +1,8 @@
+{
+  "name": "notafolder-transcriptor",
+  "version": "1.0.0",
+  "dependencies": {
+    "groq-sdk": "^0.3.3",
+    "busboy": "^1.6.0"
+  }
+}
